@@ -1,7 +1,5 @@
 # Shear Strength Calculator (Tc)
 Based on % PT Value &amp; concreate grade it will calculate the shear strength, designed for structural designer
-## Installation for structural designers
-Download Exe.rar file and extract it, place the images folder in the same directory.
 ## Excel Mode
 - Crate the sheet in your workshet & name it "Sheet1"
 - Position for %pt value = B2
