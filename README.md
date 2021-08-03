@@ -1,4 +1,4 @@
-# Shear Strength Calculator (Tc)
+# Shear Strength Calculator (Tauc)
 Based on % PT Value &amp; concreate grade it will calculate the shear strength, designed for structural designer
 ## Excel Mode
 - Crate the sheet in your workshet & name it "Sheet1"
